@@ -1,0 +1,59 @@
+{% extends "page_app/global/index.html" %}
+
+{% load static %}
+
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+<div class="container mt-4 mb-4 p-5">
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading fw-normal lh-1">Apresentação <span
+                    class="text-body-secondary"> <p class="lead">Clube de Xadrez de Recife.</p> </span> </h2>
+            <p class="lead">O Clube de Xadrez de Recife, fundado em janeiro de 2024,
+                é uma associação criada com a finalidade de organizar e promover o xadrez
+                como ferramenta de inclusão, entretenimento e desenvolvimento pessoal.
+                É uma entidade que representa a cidade de Recife.</p>
+        </div>
+        <div class="col-md-5">
+            <img src="{% static 'page_app/img/imagem_2.jpg' %}" alt="Imagem da empresa"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
+                height="500" role="img" focusable="false">
+
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+            <h2 class="featurette-heading fw-normal lh-1">Quero ser um membro do Clube de Xadrez de Recife </h2>
+            <p class="lead">Sabe jogar xadrez? Quer aprender a jogar xadrez? Quer se divertir com amigos que
+                conversam sobre xadrez?
+                Envie a sua solicitação por E-Mail e entraremos em contato para realizar a sua inscrição</p>
+        </div>
+        <div class="col-md-5 order-md-1">
+            <img src="{% static 'page_app/img/imagem_3.jpg' %}" alt="Imagem da empresa"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
+                height="500" role="img" focusable="false">
+
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+        <div class="col-md-5 mx-auto">
+            <img src="{% static 'page_app/img/imagem_1.jpg' %}" alt="Imagem da empresa"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="1280"
+                height="853" role="img" focusable="false">
+
+        </div>
+    </div>
+
+
+    <hr class="featurette-divider">
+</div>
+{% endblock content %}
