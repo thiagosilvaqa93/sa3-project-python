@@ -6,4 +6,4 @@ Para executar o site do nosso cliente você precisa ter o `python` instalado na 
 
 1. **Instale o Django:** `pip install django`
 2. **Execute o Serviço:** `python manage.py runserver`
-3. **Acesse esse link:** Entre no link: http://172.0.0.1:8000
+3. **Acesse esse link:** Entre no link: http://127.0.0.1:8017
