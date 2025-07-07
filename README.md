@@ -1,9 +1,20 @@
-# case_techway
+# 📘 SA3 – Final Project
 
-Para executar o site do nosso cliente você precisa ter o `python` instalado na sua maquina e seguir os passos a seguir.
+## 📌 Description
 
-## Como executar
+This repository contains the final project (SA3) developed for academic purposes.
 
-1. **Instale o Django:** `pip install django`
-2. **Execute o Serviço:** `python manage.py runserver`
-3. **Acesse esse link:** Entre no link: http://127.0.0.1:8017
+The goal of the project is to demonstrate technical knowledge using Python through a practical application. The script is designed to [insert what your code does – for example: interact with APIs, simulate data, process information, etc.].
+
+## 🚀 Technologies Used
+
+- Python 3.x
+
+## 🛠️ How to Run
+
+Make sure you have Python installed on your machine.
+
+```bash
+git clone https://github.com/thiagosilvaqa93/sa3-thiagosilva
+cd sa3-thiagosilva
+python main.py
