@@ -1,4 +1,4 @@
-# 📘 SA3 – Final Project
+# 📘 SA3 – Project
 
 ## 📌 Description
 
