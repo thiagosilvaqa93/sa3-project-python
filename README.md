@@ -15,6 +15,6 @@ The goal of the project is to demonstrate technical knowledge using Python throu
 Make sure you have Python installed on your machine.
 
 ```bash
-git clone https://github.com/thiagosilvaqa93/sa3-thiagosilva
-cd sa3-thiagosilva
+git clone https://github.com/thiagosilvaqa93/sa3-project-python
+cd sa3-project-python
 python main.py
