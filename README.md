@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-This repository contains the final project (SA3) developed for academic purposes.
+This repository contains the project (SA3) developed for academic purposes.
 
 The goal of the project is to demonstrate technical knowledge using Python through a practical application. The script is designed to [insert what your code does – for example: interact with APIs, simulate data, process information, etc.].
 
